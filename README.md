@@ -1,2 +1,1 @@
-# sample_1
-cosc skillupseies
+Cosc Internship Drive
